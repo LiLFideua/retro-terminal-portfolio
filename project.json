@@ -1,7 +1,7 @@
 ﻿{
-  "name": "vibe-coding-01-retro-terminal-portfolio",
-  "title": "Retro Terminal Portfolio",
-  "description": "A personal website that behaves like a 90s terminal.",
-  "type": "static-browser-app"
+    "title":  "Retro Terminal Portfolio",
+    "description":  "A keyboard-first personal portfolio styled as a polished terminal interface.",
+    "name":  "retro-terminal-portfolio",
+    "type":  "static-browser-app"
 }
 
