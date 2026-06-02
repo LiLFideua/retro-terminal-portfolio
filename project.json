@@ -1,7 +1,23 @@
 ﻿{
-    "title":  "Retro Terminal Portfolio",
-    "description":  "A keyboard-first personal portfolio styled as a polished terminal interface.",
+    "entrypoints":  {
+                        "typescript":  "src/project-manifest.ts",
+                        "html":  "index.html",
+                        "javascript":  "assets/app.js",
+                        "css":  "assets/styles.css",
+                        "python":  "scripts/metadata_check.py"
+                    },
     "name":  "retro-terminal-portfolio",
-    "type":  "static-browser-app"
+    "description":  "A keyboard-first personal portfolio styled as a polished terminal interface.",
+    "type":  "static-browser-app",
+    "languages":  [
+                      "HTML",
+                      "CSS",
+                      "JavaScript",
+                      "TypeScript",
+                      "Python",
+                      "JSON",
+                      "Markdown"
+                  ],
+    "title":  "Retro Terminal Portfolio"
 }
 
